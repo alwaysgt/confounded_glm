@@ -1,0 +1,8 @@
+dist
+*.egg
+build
+.ipynb_checkpoints
+*.so
+UNKNOWN.egg-info
+*.c
+
