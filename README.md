@@ -1,6 +1,6 @@
 Confounded_glm package is written for the thesis [Spectral Deconfounding on Generalized Linear Models](https://owgt.me/deconfounding_lava.html). It implements the deconfounding method introduced in the thesis and provides module to simulate data from confounded glms model. 
 
-The deconfounding method is provided in the module *confounded_glm.fitting* and the simulation function is provided in the module *confounded_glm.model*.
+The deconfounding method is provided in the module `confounded_glm.fitting` and the simulation function is provided in the module `confounded_glm.model`.
 
 
 
